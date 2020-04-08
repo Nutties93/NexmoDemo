@@ -1,0 +1,14 @@
+.conversation button {
+  background-color: #F25757;
+  border-radius: 5px;
+  padding: .5em;
+}
+
+.conversation button:disabled {
+  background-color: #B5D6B2;
+  color: rgba(0,0,0,.3);
+}
+
+.conversation select, .conversation button {
+  margin: 0 .5em;
+}
