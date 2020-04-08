@@ -1,0 +1,14 @@
+.userinfo {
+  display: block;
+  background-color: #61E8E1;
+  padding: 1em;
+  margin-bottom: .5em;
+}
+
+.userconnected {
+  color: rgba(0,0,0,.7);
+}
+
+.userinfo select, .userinfo input, .userinfo button {
+  margin: 0 .5em;
+}
